@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Xyrus27-Faust.Xyrus27-Faust" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wazzuppp+There!+👋;+I'm+Xyrs+Kun!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wazzuppp+There!+👋;+I'm+Xyrus+Kun!;" />
 </h1>
 
 <h3 align="center">A passionate freelnace software developer from Philippines 🇵🇭</h3>
